@@ -12,3 +12,8 @@ Este entrenamiento imita movimientos de la vida diaria y trabaja varios músculo
 1. Realiza movimientos completos
 2. Mantén control del cuerpo
 3. Usa técnica correcta
+
+## Consejos y precauciones
+1. Evita mala postura
+2. Empieza con ejercicios básicos
+3. No sobrecargues el cuerpo
