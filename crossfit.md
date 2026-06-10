@@ -7,3 +7,8 @@ El CrossFit es un entrenamiento de alta intensidad funcional que combina fuerza,
 1. Aumenta fuerza y resistencia
 2. Mejora condición física global
 3. Quema muchas calorías
+
+## Instrucciones
+1. Realiza circuitos completos
+2. Mantén buena técnica
+3. Controla el ritmo
