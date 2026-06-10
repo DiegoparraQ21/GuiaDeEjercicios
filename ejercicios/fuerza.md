@@ -12,3 +12,8 @@ El entrenamiento de fuerza consiste en ejercicios que trabajan los músculos don
 1. Mantén buena postura
 2. Usa peso adecuado
 3. Haz repeticiones controladas
+
+## Consejos y precauciones
+1. No levantes demasiado peso al inicio
+2. Descansa entre series
+3. Evita movimientos bruscos
