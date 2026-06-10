@@ -7,3 +7,8 @@ El cardio es un tipo de ejercicio que eleva la frecuencia cardíaca de forma con
 1. Mejora la salud del corazón
 2. Ayuda a quemar calorías
 3. Aumenta la resistencia física
+
+## Instrucciones
+1. Mantén un ritmo constante
+2. Controla tu respiración
+3. Empieza con intensidad moderada
