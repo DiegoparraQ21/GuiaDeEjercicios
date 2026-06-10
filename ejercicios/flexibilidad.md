@@ -12,3 +12,8 @@ La flexibilidad mejora el rango de movimiento de las articulaciones, se trabaja 
 1. Estira lentamente
 2. Mantén cada posición
 3. Respira de forma controlada
+
+## Consejos y precauciones
+1. No rebotes al estirar
+2. Evita dolor excesivo
+3. Hazlo después de calentar
