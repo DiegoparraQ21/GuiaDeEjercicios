@@ -12,3 +12,8 @@ El CrossFit es un entrenamiento de alta intensidad funcional que combina fuerza,
 1. Realiza circuitos completos
 2. Mantén buena técnica
 3. Controla el ritmo
+
+## Consejos y precauciones
+1. No excedas tu nivel
+2. Descansa adecuadamente
+3. Prioriza la técnica sobre la velocidad
