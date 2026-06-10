@@ -12,3 +12,8 @@ El yoga combina posturas físicas, respiración y relajación donde se busca el 
 1. Respira profundamente
 2. Mantén posturas estables
 3. Sigue un ritmo lento
+
+## Consejos y precauciones
+1. No fuerces posturas
+2. Usa colchoneta cómoda
+3. Escucha tu cuerpo
