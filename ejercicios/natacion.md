@@ -12,3 +12,8 @@ La natación es un ejercicio completo que se realiza en el agua, sirve para trab
 1. Controla la respiración
 2. Mantén técnica adecuada
 3. Usa movimientos fluidos
+
+## Consejos y precauciones
+1. No nades solo si eres principiante
+2. Calienta antes de entrar al agua
+3. Respeta profundidades
