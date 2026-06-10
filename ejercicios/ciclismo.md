@@ -12,3 +12,8 @@ El ciclismo es un ejercicio aeróbico realizado en bicicleta, el cual puede ser 
 1. Ajusta la bicicleta correctamente
 2. Mantén ritmo constante
 3. Usa casco siempre
+
+## Consejos y precauciones
+1. Revisa la bicicleta antes
+2. Hidrátate durante el recorrido
+3. Respeta normas de tránsito
