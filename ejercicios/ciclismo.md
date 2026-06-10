@@ -7,3 +7,8 @@ El ciclismo es un ejercicio aeróbico realizado en bicicleta, el cual puede ser 
 1. Mejora salud cardiovascular
 2. Fortalece piernas
 3. Reduce estrés
+
+## Instrucciones
+1. Ajusta la bicicleta correctamente
+2. Mantén ritmo constante
+3. Usa casco siempre
