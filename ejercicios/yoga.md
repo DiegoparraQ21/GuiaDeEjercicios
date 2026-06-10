@@ -7,3 +7,8 @@ El yoga combina posturas físicas, respiración y relajación donde se busca el 
 1. Reduce el estrés
 2. Mejora flexibilidad
 3. Aumenta concentración
+
+## Instrucciones
+1. Respira profundamente
+2. Mantén posturas estables
+3. Sigue un ritmo lento
