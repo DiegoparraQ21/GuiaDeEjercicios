@@ -7,3 +7,8 @@ El boxeo es un deporte de combate que combina fuerza y velocidad; incluyendo gol
 1. Aumenta resistencia
 2. Mejora coordinación
 3. Reduce estrés
+
+## Instrucciones
+1. Mantén guardia alta
+2. Practica golpes básicos
+3. Muévete constantemente
