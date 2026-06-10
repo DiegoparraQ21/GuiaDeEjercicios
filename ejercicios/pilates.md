@@ -12,3 +12,8 @@ El pilates fortalece el cuerpo desde el centro o core, el cual se enfoca en cont
 1. Controla cada movimiento
 2. Mantén abdomen activado
 3. Respira correctamente
+
+## Consejos y precauciones
+1. Evita movimientos rápidos
+2. Mantén técnica correcta
+3. No sobreexijas el cuerpo
