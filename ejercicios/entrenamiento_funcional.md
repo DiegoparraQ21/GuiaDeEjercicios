@@ -7,3 +7,8 @@ Este entrenamiento imita movimientos de la vida diaria y trabaja varios músculo
 1. Mejora la movilidad diaria
 2. Aumenta fuerza general
 3. Mejora equilibrio y coordinación
+
+## Instrucciones
+1. Realiza movimientos completos
+2. Mantén control del cuerpo
+3. Usa técnica correcta
