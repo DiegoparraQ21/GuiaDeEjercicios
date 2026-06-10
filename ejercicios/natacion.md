@@ -7,3 +7,8 @@ La natación es un ejercicio completo que se realiza en el agua, sirve para trab
 1. Fortalece todo el cuerpo
 2. Mejora capacidad pulmonar
 3. Bajo impacto en articulaciones
+
+## Instrucciones
+1. Controla la respiración
+2. Mantén técnica adecuada
+3. Usa movimientos fluidos
