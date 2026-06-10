@@ -7,3 +7,8 @@ El entrenamiento de fuerza consiste en ejercicios que trabajan los músculos don
 1. Incrementa la masa muscular
 2. Fortalece huesos y articulaciones
 3. Mejora el metabolismo
+
+## Intrucciones
+1. Mantén buena postura
+2. Usa peso adecuado
+3. Haz repeticiones controladas
