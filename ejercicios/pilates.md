@@ -7,3 +7,8 @@ El pilates fortalece el cuerpo desde el centro o core, el cual se enfoca en cont
 1. Fortalece el core
 2. Mejora postura
 3. Reduce dolores musculares
+
+## Instrucciones
+1. Controla cada movimiento
+2. Mantén abdomen activado
+3. Respira correctamente
