@@ -2,3 +2,8 @@
 
 ## Descripcion
 La natación es un ejercicio completo que se realiza en el agua, sirve para trabajar todo el cuerpo sin impacto en las articulaciones ayudando a mejorar la resistencia y coordinación.
+
+## Beneficios
+1. Fortalece todo el cuerpo
+2. Mejora capacidad pulmonar
+3. Bajo impacto en articulaciones
